@@ -1,4 +1,4 @@
-package com.hris.employee.dao.models;
+package com.hris.employee.dao.entities;
 
 public class Employee {
 
