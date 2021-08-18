@@ -1,0 +1,103 @@
+[33mcommit db65edd66c891267d697c3d1fd072a428316679e[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/backend[m[33m)[m
+Author: Kashif Aftab <kashifaftab07@gmail.com>
+Date:   Tue Aug 17 19:28:59 2021 +0530
+
+    changes
+
+[33mcommit 439e97b8fba2afcef8127318e7989c6145bea7d6[m[33m ([m[1;31morigin/feature/backend[m[33m)[m
+Author: Kashif Aftab <kashifaftab07@gmail.com>
+Date:   Sun Aug 15 20:54:09 2021 +0530
+
+    this is first attempt
+
+[33mcommit a81955d23af4e95421229264528dccc1e894b0e9[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 7559f70 84e347d
+Author: DanielPhyo <phyopyaethein14@gmail.com>
+Date:   Sun Aug 15 23:15:05 2021 +0800
+
+    Merge pull request #2 from DanielPhyo/feature/app
+    
+    Testing github
+
+[33mcommit 84e347d06c608250bf9e0a75cbf5ce1d153c0141[m
+Author: DanielPhyo <phyopyaethein14@gmail.com>
+Date:   Sun Aug 15 23:04:01 2021 +0800
+
+    Testing github
+
+[33mcommit 7559f704a7272ac805da6f60281e325a26d1780b[m
+Merge: c71b5af 9db2624
+Author: sh-arif <86105207+sh-arif@users.noreply.github.com>
+Date:   Sun Aug 15 22:36:01 2021 +0800
+
+    Merge pull request #1 from DanielPhyo/patch-3
+    
+    WelcomeScreen.js
+
+[33mcommit 9db262430d096917236b300483a6fd74ff878f14[m
+Author: DanielPhyo <67821719+DanielPhyo@users.noreply.github.com>
+Date:   Sun Aug 15 21:37:49 2021 +0800
+
+    WelcomeScreen.js
+    
+    Home Screen for app
+
+[33mcommit c71b5af9f9c6a452f71c2b210aaa3fe672d1368c[m
+Author: mohammadarif <arif@lionsbot.com>
+Date:   Wed Aug 11 22:33:21 2021 +0800
+
+    Restrucured code.
+
+[33mcommit d249ebed7f5c7c207ec6b9b5162335fd5078a3c6[m
+Author: mohammadarif <arif@lionsbot.com>
+Date:   Wed Aug 11 22:00:10 2021 +0800
+
+    Added dummy Code
+
+[33mcommit 4cbecd59c95132765f3a7e5f8c24677fa11565bb[m
+Author: mohammadarif <arif@lionsbot.com>
+Date:   Wed Aug 11 21:02:36 2021 +0800
+
+    added dummy class
+
+[33mcommit cd02c7586e811894ade3569b9ba3a03d8995f2d3[m
+Author: mohammadarif <arif@lionsbot.com>
+Date:   Wed Aug 11 20:45:45 2021 +0800
+
+    Added backend demo app
+
+[33mcommit 430983bdebf2e8ea018889bbb5fdd94d93a64714[m
+Author: sh-arif <86105207+sh-arif@users.noreply.github.com>
+Date:   Sun Jul 25 00:29:47 2021 +0800
+
+    Update README.md
+
+[33mcommit 28c99a57d22f1f7dd0ed78c7f7396cb23c1f14b1[m
+Author: sh-arif <86105207+sh-arif@users.noreply.github.com>
+Date:   Sun Jul 25 00:28:10 2021 +0800
+
+    Added how to run
+
+[33mcommit 38d93d429c910dc7a1ac94974738f36f8b8c945b[m
+Author: sh-arif <86105207+sh-arif@users.noreply.github.com>
+Date:   Sun Jul 25 00:26:45 2021 +0800
+
+    Update README.md
+
+[33mcommit c3e6f650a950ec41a5432bed3fe9a47716c6e3ca[m
+Author: sh-arif <shaikhimarif@gmail.com>
+Date:   Sat Jul 24 23:25:26 2021 +0800
+
+    Added Dashboard template from material-ui
+
+[33mcommit 02392186b771971dac26c2c57d4c0b4ee91d99de[m
+Author: sh-arif <shaikhimarif@gmail.com>
+Date:   Sat Jul 24 17:30:11 2021 +0800
+
+    Added read me for high level folder structure
+
+[33mcommit cb05856cba854fe45aacdb19d4e24615f8cbe074[m
+Author: sh-arif <86105207+sh-arif@users.noreply.github.com>
+Date:   Sat Jul 17 16:23:10 2021 +0800
+
+    Initial commit
