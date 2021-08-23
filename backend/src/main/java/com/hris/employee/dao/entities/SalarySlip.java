@@ -1,9 +1,11 @@
 package com.hris.employee.dao.entities;
 
-public class Salary {
+import java.sql.Timestamp;
+
+public class SalarySlip {
     private int employeeId;
 
     private double salary;
 
-    private SalaryConfig config;
+    private Timestamp paidOutDate;
 }
