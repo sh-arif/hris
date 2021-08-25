@@ -10,7 +10,9 @@ public class Attendance
 
     private Timestamp checkInTime;
 
-    //Location -- Check in and check out.
+    private String checkInCoordinates[]=new String[20];
+
+    private String checkOutCoordinates[]=new String[20];
 
     private Timestamp checkOutTime;
 }
